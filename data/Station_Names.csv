@@ -1,0 +1,47 @@
+﻿station_code,station_name,section_name
+RM,Richmond,macarthur_towards_richmond
+EN,El Cerrito Del Norte,macarthur_towards_richmond
+EP,El Cerrito Plaza,macarthur_towards_richmond
+NB,North Berkeley,macarthur_towards_richmond
+BK,Berkeley,macarthur_towards_richmond
+AS,Ashby,macarthur_towards_richmond
+MA,MacArthur,oakland
+19,19th Street Oakland,oakland
+12,12th Street / Oakland City Center,oakland
+LM,Lake Merritt,oakland
+FV,Fruitvale,oakland
+CL,Coliseum,coliseum
+SL,San Leandro,san_leandro
+BF,Bayfair,bayfair
+HY,Hayward,bay_fair_towards_fremont
+SH,South Hayward,bay_fair_towards_fremont
+UC,Union City,bay_fair_towards_fremont
+FM,Fremont,bay_fair_towards_fremont
+WS,Warm Springs,bay_fair_towards_fremont
+CN,Concord,macarthur_towards_antioch
+PH,Pleasant Hill,macarthur_towards_antioch
+WC,Walnut Creek,macarthur_towards_antioch
+LF,Lafayette,macarthur_towards_antioch
+OR,Orinda,macarthur_towards_antioch
+RR,Rockridge,macarthur_towards_antioch
+OW,West Oakland,oakland
+EM,Embarcadero,sf
+MT,Montgomery Street,sf
+PL,Powell Street,sf
+CC,Civic Center,sf
+16,16th Street Mission,sf
+24,24th Street Mission,sf
+GP,Glen Park,sf
+BP,Balboa Park,sf
+DC,Daly City,sf
+CM,Colma,daly_city_towards_millbrae
+CV,Castro Valley,bay_fair_towards_dublin
+ED,Dublin/Pleasanton,bay_fair_towards_dublin
+NC,North Concord,macarthur_towards_antioch
+WP,Pittsburg/Bay Point,macarthur_towards_antioch
+SS,South San Francisco,daly_city_towards_millbrae
+SB,San Bruno,daly_city_towards_millbrae
+SO,San Francisco International Airport,sfo
+MB,Millbrae,daly_city_towards_millbrae
+WD,West Dublin/Pleasanton,bay_fair_towards_dublin
+OA,Oakland International Airport,oak_airport
