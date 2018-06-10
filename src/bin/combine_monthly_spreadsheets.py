@@ -21,6 +21,7 @@ FILES_FROM_2018_TO_SHEET_NAME = {
     'Ridership_201802.xlsx': 'Avg Weekday OD',
     'Ridership_201803.xlsx': 'Avg Weekday OD',
     'Ridership_201804.xlsx': 'Avg Weekday OD',
+    'Ridership_201805.xlsx': 'Avg Weekday OD',
 }
 
 def get_station_names_map():
@@ -94,7 +95,7 @@ def process_2018_data():
     all_2018_data = pd.DataFrame(columns=COMBINED_DATA_COLS)
 
     year = '2018'
-    for month in ['01', '02', '03', '04']:
+    for month in ['01', '02', '03', '04', '05']:
         for part_of_week in ['weekday']:
             file_name = 'Ridership_{}{}.xlsx'.format(year, month)
             sheet_name = FILES_FROM_2018_TO_SHEET_NAME[file_name]
