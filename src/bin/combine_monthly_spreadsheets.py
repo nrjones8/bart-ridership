@@ -22,6 +22,7 @@ FILES_FROM_2018_TO_SHEET_NAME = {
     'Ridership_201803.xlsx': 'Avg Weekday OD',
     'Ridership_201804.xlsx': 'Avg Weekday OD',
     'Ridership_201805.xlsx': 'Avg Weekday OD',
+    'Ridership_201806.xlsx': 'Avg Weekday OD',
 }
 
 def get_station_names_map():
